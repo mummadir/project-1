@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Revanth, I do like the presentation now with the inclusion of the roller coaster example. I think you want to present that earlier on in the introduction, so the reader knows what the purpose of the paper is and what it will present. You will also need some comncluding remarks, which should be something that you tie to the introduction once you have finished the body of the paper. Writing often happens this way where you go back and revisit what you have written given the direction your paper took you.
+
+20/20
+
 ## Assignment 5
 
 Revanth, thank you for diving into the derivation of the torque equation. I do think this paper is getting closer to completion now that you have described the thoeretical background and begun an experimental section. I think doing your best on relating these experimental results to the basic model that you developed in the previous section would make a nice conclusion to such a paper. Great work!
